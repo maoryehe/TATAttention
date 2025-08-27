@@ -26,6 +26,7 @@ Thumbs.db
 
 # Data and checkpoints (keep only small readme/sample)
 data/
+!data/EPD_-499_to_100.fasta
 !data/README.md
 checkpoints/
 !checkpoints/.gitkeep
