@@ -1,0 +1,37 @@
+Folder PATH listing for volume Elements
+Volume serial number is 405C-74C2
+D:.
+?   folder_structure.txt
+?   
+????checkpoints
+?       best_totalcount.pt
+?       
+????data
+?       processed_counts_onehot_L600.npz
+?       processed_counts_onehot_L600.npz.json
+?       raw.csv
+?       
+????src
+    ?   main.py
+    ?   train_eval.py
+    ?   
+    ????data
+    ?   ?   GenomicDataCollecting.py
+    ?   ?   makeLoaders.py
+    ?   ?   one_hot.py
+    ?   ?   
+    ?   ????__pycache__
+    ?           makeLoaders.cpython-311.pyc
+    ?           
+    ????model
+    ?   ?   TotalCountModel.py
+    ?   ?   
+    ?   ????__pycache__
+    ?           TotalCountModel.cpython-311.pyc
+    ?           
+    ????__pycache__
+            GenomicDataCollecting.cpython-311.pyc
+            main.cpython-311.pyc
+            one_hot.cpython-311.pyc
+            train_eval.cpython-311.pyc
+            
